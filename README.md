@@ -1,1 +1,1 @@
-# ShopTemplate
+# Shop Template
